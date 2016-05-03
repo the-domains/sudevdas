@@ -1,6 +1,6 @@
 name: sudevdas
 favicon: null
-layout_spectrum: 0.6114879834931344
+layout_spectrum: 0.62139
 typography_spectrum: 0.22266263654455543
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6604246732313186
+  brandStrength: 0.8125
   lightness: 0.3554099122993648
   saturation: 0.18279006821103394
   rhythmicContrast: 0.7119527331087738
